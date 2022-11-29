@@ -1,6 +1,6 @@
 ### Ejercicio 1 (1 punto)
-Parte 1: Explicar en qué consiste la comunicación colectiva, las primitivas que hay en MPI y las ventajas y desventajas de este tipo de comunicación.\n
-Parte 2: Implementar un programa donde el nodo 0 inicializa una variable con la frase “Hola mundo” lo envía al resto de nodos del comunicador.\n
+Parte 1: Explicar en qué consiste la comunicación colectiva, las primitivas que hay en MPI y las ventajas y desventajas de este tipo de comunicación.
+Parte 2: Implementar un programa donde el nodo 0 inicializa una variable con la frase “Hola mundo” lo envía al resto de nodos del comunicador.
 Cada proceso deberá imprimir por consola:
 “Soy el proceso X y he recibido el dato Y”
 NOTA: Al inicio del programa, el contenido de la variable solo lo conoce el proceso 0.
