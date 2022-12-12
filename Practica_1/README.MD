@@ -7,3 +7,5 @@ Implementar un programa usando MPI, donde el proceso 0 toma un dato del usuario 
 
 ### Ejercicio 3 (4 Puntos)
 Modificar la implementación del ejercicio 2 para que el dato introducido por el usuario dé tantas vueltas como este indique en anillo
+-----------------------------
+Nota: 7
