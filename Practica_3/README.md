@@ -12,3 +12,6 @@ Implementar un programa donde cada proceso inicializa un array de una dimensión
 ### Ejercicio 4 (5 puntos)
 Crear un programa que, haciendo uso de las funciones de comunicación colectiva que se considere necesario, calcule el factorial del número total de procesos. Esto es, si se ejecuta la aplicación con 4 procesos, uno de los procesos tiene que mostrar el resultado 24, si se ejecuta con 5, el resultado sería 120.
 Solo un proceso debe conocer el resultado final y deberá imprimir por pantalla: “Soy el proceso X y el factorial de Y es Z”
+
+-----------------------------
+Nota: 7,5
