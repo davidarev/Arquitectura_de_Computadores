@@ -10,3 +10,6 @@ Por último, el proceso 0 imprime una vez: “Soy el proceso 0 y ya he recibido 
 
 ### Ejercicio 3 (4 puntos)
 Implementar un código donde utilizando comunicación punto a punto tres procesos rebotan continuamente los mensajes entre sí, hasta que deciden detenerse una vez alcanzado límite autoimpuesto.
+
+-----------------------------
+Nota: 9
